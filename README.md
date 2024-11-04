@@ -1,8 +1,8 @@
 <h1>Pose Detector Application</h1>
 
 <h2>Description</h2>
-This app scan the Pose using Google ML-KIT in our Flutter application. Machine Learning is a hot topic in flutter and in this modern area of technology. 
-The project structure, pattern, and procedure are based on (GetX Pattern), and I use the Google ML-KIT for detecting the human pose in an image and real-time with the camera.
+This app scan the pose using Google ML-KIT in the flutter application. Machine Learning is a hot topic in flutter and in this modern area of technology. 
+The project structure, pattern, and procedure are based on (GetX Pattern), and I used Google ML-KIT for detecting the human pose in an image and real-time with the camera.
 Detect the pose using the official and proper way of Google`s suggested ML-KIT with the flutter & GetX pattern.
 
 
